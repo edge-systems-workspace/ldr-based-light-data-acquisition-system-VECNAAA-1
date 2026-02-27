@@ -33,7 +33,7 @@ void loop() {
 
     // TODO 5:
     // Read analog value from LDR
-    // ldrValue = analogRead(ldrPin);
+    ldrValue = analogRead(ldrPin);
 
     // TODO 6:
     // Print raw ADC value
